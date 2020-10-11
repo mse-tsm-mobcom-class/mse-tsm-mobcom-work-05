@@ -12,10 +12,10 @@ For slides and example code, see [lesson 5](../../../mse-tsm-mobcom/blob/master/
 * Use the [pin mapping](https://github.com/tamberg/mse-tsm-mobcom/wiki/Grove-Adapters#mapping) to adapt the pin numbers.
 
 ### b) State machine, 15'
-* Copy and complete the code of the state machine.
-* Make sure it works, with a button and LED setup.
-* Change it to switch off only, if the 2nd press is _long_.
-* Let's define long as > 1s, measure time with [millis()](https://www.arduino.cc/reference/en/language/functions/time/millis/)
+Copy and complete the code of the state machine.
+Make sure it works, with a button and LED setup.
+Change it to switch off only, if the 2nd press is long.
+Let's define long as > 1s, measure time with [millis()](https://www.arduino.cc/reference/en/language/functions/time/millis/).
 
 ### c) Kitchen timer, 15'
 * Design a kitchen timer to the following specification:
