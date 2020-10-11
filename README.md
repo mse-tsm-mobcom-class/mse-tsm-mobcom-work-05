@@ -3,7 +3,7 @@
 For slides and example code, see [lesson 5](../../../mse-tsm-mobcom/blob/master/05/README.md)
 
 > *Note: Do not work on this repository right away.*<br/>
-> *[Create your personal copy by clicking this GitHub Classroom link](https://classroom.github.com/a/TODO).*
+> *[Create your personal copy by clicking this GitHub Classroom link](https://classroom.github.com/a/84lN2hxD).*
 
 ### a) Button-triggered LED, 15'
 * Use blue onboard LED, pin 4, and the button, pin 7.
