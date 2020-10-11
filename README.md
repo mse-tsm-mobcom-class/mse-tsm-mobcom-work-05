@@ -6,10 +6,10 @@ For slides and example code, see [lesson 5](../../../mse-tsm-mobcom/blob/master/
 > *[Check existing forks to find the specific repository for your class.](../../network/members)*
 
 ### a) Button-triggered LED, 15'
-* Connect the LED to port D2<sup>*</sup>, and the button to D4.
+* Use blue onboard LED, pin 4, and the button, pin 7.
 * Combine the previous examples to switch the LED.
-* <sup>*</sup>On the ESP8266, remove LED for programming.
-* Look up the [pin mapping](https://github.com/tamberg/fhnw-iot/wiki/Grove-Adapters#mapping) to adapt the pin numbers.
+* Or wire a LED to Grove port D2 and a button to D4.
+* Use the [pin mapping](https://github.com/tamberg/mse-tsm-mobcom/wiki/Grove-Adapters#mapping) to adapt the pin numbers.
 
 ### b) State machine, 15'
 * Copy and complete the code of the state machine.
